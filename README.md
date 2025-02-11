@@ -17,7 +17,7 @@
 <h5>-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h5>
 <h5>- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</h5>
 <h5>- :seedling: Exploring Technical Content Writing.</h5>
-<h5>- :zap: In my free time, I solve problems on leetcode <a href="https://leetcode.com/u/user0769w/"> <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="30"> </a> and make projects</h5>
+<h5>- :zap: In my free time, I solve problems on leetcode <a href="https://leetcode.com/u/user0769w/"> <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="30"> </a> and <a href="https://www.geeksforgeeks.org/user/ayona3099/?ref=header_profile"> <img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" width="30"> </a> make projects</h5>
 <h5>- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/ayona-das-81a8611a9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
